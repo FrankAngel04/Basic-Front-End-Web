@@ -1,4 +1,4 @@
-# 🌐 Basic Front-End Web Project
+# 🌐 Front-End Web Project
 
 A simple and responsive front-end website built with **HTML**, **CSS**, and **JavaScript**.  
 This project showcases a basic multi-page website structure, styled layouts, and interactive elements suitable for small portfolios, businesses, or personal projects.
